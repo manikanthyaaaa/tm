@@ -1,6 +1,6 @@
 # tm
 
-#hi mani
+#hi m
 #hlo bro
 #hey b
 
